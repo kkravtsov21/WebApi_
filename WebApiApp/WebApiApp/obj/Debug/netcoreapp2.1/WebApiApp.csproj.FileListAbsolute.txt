@@ -1,0 +1,13 @@
+C:\Users\Kirill\source\repos\WebApiApp\WebApiApp\bin\Debug\netcoreapp2.1\WebApiApp.deps.json
+C:\Users\Kirill\source\repos\WebApiApp\WebApiApp\bin\Debug\netcoreapp2.1\WebApiApp.runtimeconfig.json
+C:\Users\Kirill\source\repos\WebApiApp\WebApiApp\bin\Debug\netcoreapp2.1\WebApiApp.runtimeconfig.dev.json
+C:\Users\Kirill\source\repos\WebApiApp\WebApiApp\bin\Debug\netcoreapp2.1\WebApiApp.dll
+C:\Users\Kirill\source\repos\WebApiApp\WebApiApp\obj\Debug\netcoreapp2.1\WebApiApp.csprojAssemblyReference.cache
+C:\Users\Kirill\source\repos\WebApiApp\WebApiApp\obj\Debug\netcoreapp2.1\WebApiApp.AssemblyInfoInputs.cache
+C:\Users\Kirill\source\repos\WebApiApp\WebApiApp\obj\Debug\netcoreapp2.1\WebApiApp.AssemblyInfo.cs
+C:\Users\Kirill\source\repos\WebApiApp\WebApiApp\bin\Debug\netcoreapp2.1\WebApiApp.pdb
+C:\Users\Kirill\source\repos\WebApiApp\WebApiApp\obj\Debug\netcoreapp2.1\WebApiApp.dll
+C:\Users\Kirill\source\repos\WebApiApp\WebApiApp\obj\Debug\netcoreapp2.1\WebApiApp.pdb
+C:\Users\Kirill\source\repos\WebApiApp\WebApiApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Kirill\source\repos\WebApiApp\WebApiApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Kirill\source\repos\WebApiApp\WebApiApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
